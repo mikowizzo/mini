@@ -1,15 +1,3 @@
 streamlit
 openai
-pandas
-plotly
-numpy
-streamlit-extras
-replicate
-chromadb==0.3.29
-pydub
-ffmpeg
-trafilatura
-openpyxl
-networkx
-ccxt
-atomic_agents
+atomic-agents
